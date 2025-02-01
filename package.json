@@ -1,0 +1,25 @@
+{
+  "name": "js-back-end-movie-magic-feb-2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jovan1309/js-back-end-movie-magic-feb-2025/git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "htpps://jovan1309/js-back-end-movie-magic-feb-2025/issues"
+  },
+  "homepage": "htpps://jovan1309/js-back-end-movie-magic-feb-2025#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
