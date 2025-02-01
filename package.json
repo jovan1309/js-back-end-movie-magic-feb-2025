@@ -21,5 +21,8 @@
   "homepage": "htpps://jovan1309/js-back-end-movie-magic-feb-2025#readme",
   "devDependencies": {
     "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
   }
 }
